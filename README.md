@@ -4,7 +4,7 @@
 
 ## 💻 About the Project
 
-This is An application which is going to show your birthday based on the input, the goal was to pratice a little bit more of my frontend skills.
+This is an application which is going to show your birthday based on the input, the goal was to pratice a little bit more of my frontend skills.
 
 
 So if the birthday you wanna calculate is  31/12/2022 the output is this below
@@ -18,7 +18,7 @@ So if the birthday you wanna calculate is  31/12/2022 the output is this below
 
 ## 🧪 Technologies used
 
-this project whats developed using this technologies:
+This project whats developed using this technologies:
 
 - [HTML5](https://html5.org/)
 - [JavaScript](https://javascript.com)
